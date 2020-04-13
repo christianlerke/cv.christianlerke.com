@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://cv.christianlerke.com/sitemap.xml
